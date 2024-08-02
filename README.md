@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I’m pursuing Le Wagon Data Science & AI bootcamp
+#### I’m pursuing Le Wagon bootcamp in Data Science & AI
 
 <!--
 **ExMachinaWav/ExMachinaWav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
